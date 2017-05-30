@@ -21,6 +21,8 @@
         android:text="저즈디즈 email" />
 
     <Button
+
+
         android:id="@+id/but_information"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
